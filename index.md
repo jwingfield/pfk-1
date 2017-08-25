@@ -104,10 +104,13 @@ gigs to check us out, and/or contact us to check our availability.</p>
 			<p>&nbsp;</p>
 			<div style="text-align: center;" markdown="1">
 
-**Saturday 23rd September 2017** - The Woodman, Bradford<br/>
-**Saturday 7th October 2017** - The Highfield, Idle<br/>
+**Saturday 23rd September 2017** - The Woodman, Bradford
+**Saturday 7th October 2017** - The Highfield, Idle
+**Thursday 26th October 2017** - Halloween Party
 **Saturday 2nd December 2017** - The Acorn, Eldwick  
-**Friday 8th December 2017** - Birthday Party, Saltaire
+**Saturday 9th December 2017** - Birthday Party, Saltaire
+**Saturday 6th January 2018** - Private Party
+**Saturday 3rd February 2018** - New Inn, Wilsden
 
 ### Recent Gigs
 
